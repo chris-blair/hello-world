@@ -6,3 +6,4 @@ Typing in some stuff so that I can see that it has changed and then merge it bac
 Trying to make a signed checkin
 Trying signed checkins through vscode
 Not VSCODE
+Trying the new password
